@@ -46,7 +46,7 @@ group :development do
 end
 
 gem 'loofah', '~> 2.2', '>= 2.2.2'
-gem 'nokogiri', '~> 1.8', '>= 1.8.3'
+gem 'nokogiri', '~> 1.11'
 gem 'rails-html-sanitizer', '~> 1.0', '>= 1.0.4'
 gem 'sprockets', '~> 3.7', '>= 3.7.2'
 
